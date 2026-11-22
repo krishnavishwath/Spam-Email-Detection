@@ -12,7 +12,7 @@ This project detects whether an email or text message is Spam or Not Spam using 
 - Seaborn
 - NLTK
 - Scikit-learn
-- TensorFlow/Keras (if used)
+- TensorFlow/Keras
 
 ## Project Workflow
 1. Import the dataset.
